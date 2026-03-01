@@ -8,9 +8,9 @@
   },
   "highlights": [
     { "number": "4+", "label": "Years Experience" },
-    { "number": "15K+", "label": "Monthly Users" },
-    { "number": "100%", "label": "TypeScript" },
-    { "number": "30%", "label": "AI-Accelerated" }
+    { "number": "10+", "label": "Production Apps" },
+    { "number": "15K/mo", "label": "Active Users" },
+    { "number": "30+", "label": "Major Features" },
   ],
   "skills": [
     {
@@ -63,4 +63,5 @@
     "url": "/contact"
   }
 }
+
 
