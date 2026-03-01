@@ -30,15 +30,14 @@
     "github": "https://www.notion.so/Unisphere-Technical-Details-315c29e8f9e6806d86a7fe295ca78a9f?source=copy_link",
     "techs": "Next.js, TypeScript, NextAuth, React Hook Form, ExcelJS, Role-based permissions",
     "img": [
-      "https://i.ibb.co.com/XZxc0DGc/sstu-teachers-dark.png",
-      "https://i.ibb.co.com/7xCXq7Rj/sstu-login.png",
-      "https://i.ibb.co.com/vvjNsvrZ/sstu-otp.png",
-      "https://i.ibb.co.com/Z1kwP2SC/context-menu.png",
-      "https://i.ibb.co.com/WpsXbxYq/sstu-form-dark.png",
-      "https://i.ibb.co.com/1YZspd8W/sstu-details-edu-dark.png",
-      "https://i.ibb.co.com/jPRVQ51S/sstu-eduadd.png",
-      "https://i.ibb.co.com/r2kMZz8m/sstu-richtext-dark.png",
-      "https://i.ibb.co.com/bjSPMgQx/sstu-markentry-dark.png"
+      "https://i.ibb.co.com/zVKnJtJp/sstu-teachers-dark-s.png",
+      "https://i.ibb.co.com/gM1SpRdQ/sstu-login.png",
+      "https://i.ibb.co.com/gFBgn0XG/sstu-otp.png",
+      "https://i.ibb.co.com/f6RgxsB/context-menu.png",
+      "https://i.ibb.co.com/tPqBbYQ5/sstu-form-dark.png",
+      "https://i.ibb.co.com/ynpVNjDz/sstu-details-edu-dark.png",
+      "https://i.ibb.co.com/hFpmD1sS/sstu-markentry-dark.png",
+      "https://i.ibb.co.com/v6968yTF/sstu-richtext-dark-s.png"
     ]
   },
   {
@@ -50,7 +49,7 @@
     "github": "https://github.com/JobayerHosen/MedX-Doctors-Portal",
     "techs": "REACT JS, REACT ROUTER, REACT BOOTSTRAP, CSS, FIREBASE",
     "img": [
-      "https://i.ibb.co/JqqHzbT/image.png",
+      "https://i.ibb.co.com/pBGbfqsk/medx.png",
       "https://i.ibb.co/WBytZXJ/image.png",
       "https://i.ibb.co/7rf3wbL/image.png"
     ]
@@ -74,7 +73,7 @@
     "github": "https://github.com/JobayerHosen/Bonosri-Bonsai-Plants-Shop-Frontend",
     "techs": "REACT JS, REACT ROUTER, REACT BOOTSTRAP, CSS, FIREBASE, NodeJS, Express, MongoDB",
     "img": [
-      "https://i.ibb.co/0t2Njcr/image.png",
+      "https://i.ibb.co.com/CszQcrRZ/bonsai.png",
       "https://i.ibb.co/Wz5HRRy/image.png",
       "https://i.ibb.co/bKJ1YyY/image.png",
       "https://i.ibb.co/TYFGz8s/image.png",
@@ -90,7 +89,7 @@
     "github": "https://github.com/JobayerHosen/GoTrip-Frontend",
     "techs": "REACT JS, REACT ROUTER, REACT BOOTSTRAP, CSS, FIREBASE, NodeJS, Express, MongoDB",
     "img": [
-      "https://i.ibb.co/W0cTDhV/image.png",
+      "https://i.ibb.co.com/ynZDLF7n/gotrip.png",
       "https://i.ibb.co/pX8Sw6j/image.png",
       "https://i.ibb.co/SvNxtjW/image.png"
     ]
