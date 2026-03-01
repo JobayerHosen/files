@@ -2,9 +2,9 @@
   "personal": {
     "name": "Jobayer Hosen",
     "title": "Frontend Engineer",
-    "intro": "Frontend Engineer specializing in building scalable SaaS platforms, marketplace systems, and performance-driven dashboards using React and TypeScript. Experienced in architecting production-grade applications with real-time data flows, complex role-based systems, and transactional workflows.",
+    "intro": "Frontend Engineer specializing in building scalable multi-role dashboards, e-commerce and marketplace systems using React, React Native, and Next.js. Experienced in architecting production-grade applications with real-time data flows, complex role-based systems, and transactional workflows.",
     "description": "I build cross-platform applications using React Native and Next.js with a strong focus on clean architecture, performance optimization, and AI-assisted development. I'm passionate about writing production-level code that delivers exceptional user experiences.",
-    "image": "../../images/profile.jpg"
+    "image": "https://jobayerhosen.github.io/files/profile.png"
   },
   "highlights": [
     { "number": "4+", "label": "Years Experience" },
@@ -63,3 +63,4 @@
     "url": "/contact"
   }
 }
+
