@@ -7,7 +7,7 @@
     "greeting": "Hi, I'm",
     "name": "Jobayer Hosen",
     "title": "Frontend Engineer",
-    "summary": "Frontend Engineer specializing in building scalable dashboard, marketplace systems using React and TypeScript. Experienced in architecting production-grade applications with real-time data flows, complex role-based systems, and transactional workflows. Experienced building cross-platform applications using React-Native and Next.js. Strong focus on clean architecture, performance optimization, and AI-assisted development with production-level code quality.",
+    "summary": "Frontend Engineer specializing in building scalable multi-role dashboards, e-commerce and marketplace systems using React, React Native, and Next.js. Experienced building cross-platform applications using React Native and Next.js.",
     "techStack": [
       { "name": "TypeScript", "icon": "typescript" },
       { "name": "React", "icon": "react" },
@@ -30,3 +30,4 @@
     "scrollText": "Scroll to explore"
   }
 }
+
