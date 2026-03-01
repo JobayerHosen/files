@@ -10,7 +10,7 @@
     { "number": "4+", "label": "Years Experience" },
     { "number": "10+", "label": "Production Apps" },
     { "number": "30+", "label": "Major Features" },
-    { "number": "15K/mo", "label": "Active Users" },
+    { "number": "15K/mo", "label": "Active Users" }
   ],
   "skills": [
     {
@@ -63,6 +63,7 @@
     "url": "/contact"
   }
 }
+
 
 
 
